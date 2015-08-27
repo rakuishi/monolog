@@ -28,7 +28,6 @@
 
 ##### Book
 
-* [暇と退屈の倫理学](http://www.amazon.co.jp/exec/obidos/ASIN/425500613X/rakuishi-22/ref=nosim/)
 * [禅とハードル](http://www.amazon.co.jp/exec/obidos/ASIN/4905425360/rakuishi-22/ref=nosim/)
 * [ヴォイド・シェイパ](http://www.amazon.co.jp/exec/obidos/ASIN/4120042278/rakuishi-22/ref=nosim/)
 
