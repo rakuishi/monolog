@@ -26,6 +26,10 @@
 * 炊飯器 (象印)
 * 電気ケトル アプレシア0.8L (T-fal)
 
+##### Clothes
+
+* ダンボール3箱分
+
 ##### Book
 
 * [禅とハードル](http://www.amazon.co.jp/exec/obidos/ASIN/4905425360/rakuishi-22/ref=nosim/)
