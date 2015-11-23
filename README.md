@@ -4,6 +4,7 @@
 * BenQ マルチメディアモニター (27インチ/フルHD/HDMI搭載) GW2760HM
 * iPhone 6 (SIM Free)
 * Nexus 5 (SIM Free)
+* Nexus 5X (SIM Free)
 * PlayStation Vita
 * Bose QuietComfort 20i
 * Bose QuietComfort 25
