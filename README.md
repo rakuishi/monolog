@@ -5,6 +5,7 @@
 * iPhone 6 (SIM Free)
 * Nexus 5 (SIM Free)
 * Nexus 5X (SIM Free)
+* Kindle Paperwhite
 * PlayStation Vita
 * Bose QuietComfort 20i
 * Bose QuietComfort 25
