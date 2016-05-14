@@ -3,13 +3,10 @@
 * MacBook Pro (Retina, 15-inch, Mid 2015, US)
 * BenQ マルチメディアモニター (27インチ/フルHD/HDMI搭載) GW2760HM
 * iPhone 6 (SIM Free)
-* Nexus 5 (SIM Free)
 * Nexus 5X (SIM Free)
 * Kindle Paperwhite
 * PlayStation Vita
 * Bose QuietComfort 20i
-* Bose QuietComfort 25
-* Panasonic 充電器 (BQ-CC52)
 * Cintiq 13 HD
 
 ##### Bag
