@@ -48,5 +48,4 @@
 * [お名前.com](http://www.onamae.com/) 税込 1,382 + 1,177 円/年
 * [Amazon S3](https://aws.amazon.com/jp/) 税込約 200 円/月
 * [Sakura VPS](http://vps.sakura.ad.jp/) 税込 972 円/月
-* [niconico](http://www.nicovideo.jp/) 税込 540 円/月
 * [dアニメストア](https://anime.dmkt-sp.jp/animestore/) 税抜 400 円/月
