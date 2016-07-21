@@ -8,6 +8,7 @@
 * PlayStation Vita
 * Bose QuietComfort 20i
 * Cintiq 13 HD
+* Panasonic 充電器 (BQ-CC52)
 
 ##### Bag
 
