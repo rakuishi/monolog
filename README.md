@@ -31,11 +31,6 @@
 
 * ダンボール3箱分
 
-##### Book
-
-* [禅とハードル](http://www.amazon.co.jp/exec/obidos/ASIN/4905425360/rakuishi-22/ref=nosim/)
-* [ヴォイド・シェイパ](http://www.amazon.co.jp/exec/obidos/ASIN/4120042278/rakuishi-22/ref=nosim/)
-
 ##### Misc
 
 * Victorinox アーミーナイフ サイバーツール29T
@@ -44,7 +39,7 @@
 
 ##### Web Service
 
-* [DMM Mobile](http://mvno.dmm.com/) 税込約 3,000 円/月
+* [DMM Mobile](http://mvno.dmm.com/) 税込約 1,360 円/月
 * [Money Forward](https://moneyforward.com/) 税込 500 円/月
 * [お名前.com](http://www.onamae.com/) 税込 1,382 + 1,177 円/年
 * [Amazon S3](https://aws.amazon.com/jp/) 税込約 200 円/月
