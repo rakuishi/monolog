@@ -41,6 +41,5 @@
 
 * [DMM Mobile](http://mvno.dmm.com/) 税込約 1,360 円/月
 * [Money Forward](https://moneyforward.com/) 税込 500 円/月
-* [お名前.com](http://www.onamae.com/) 税込 1,382 + 1,177 円/年
-* [Amazon S3](https://aws.amazon.com/jp/) 税込約 200 円/月
-* [Sakura VPS](http://vps.sakura.ad.jp/) 税込 972 円/月
+* [お名前.com](http://www.onamae.com/) 税込 1,382/年
+* [Amazon S3](https://aws.amazon.com/jp/) 税込約 200(S3) + 450(EC2) 円/月
