@@ -39,8 +39,8 @@
 
 ##### Web Service
 
-* [DMM Mobile](http://mvno.dmm.com/) 税抜 ¥1,260/month
+* [DMM Mobile](http://mvno.dmm.com/) 税抜 ¥1,620/month
 * [Money Forward](https://moneyforward.com/) 税込 ¥500/month
 * [お名前.com](http://www.onamae.com/) 税抜 ¥1,280/year
-* [Amazon S3 + Amazon EC2](https://aws.amazon.com/jp/) $2/month + $41.70/year
+* [Amazon S3 + Amazon EC2](https://aws.amazon.com/jp/) $1/month + $41.70/year
 * [Apple Developer Program](https://developer.apple.com/jp/) 税抜 ¥11,800/year
