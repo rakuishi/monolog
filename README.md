@@ -9,7 +9,6 @@
 * Bose QuietComfort 20i
 * Cintiq 13 HD
 * Panasonic 充電器 (BQ-CC52)
-* New Nintendo 3DS
 * [Apple USB SuperDrive](http://www.apple.com/jp/shop/product/MD564ZM/A/apple-usb-superdrive)
 
 ##### Bag
