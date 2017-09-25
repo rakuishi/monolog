@@ -1,22 +1,23 @@
-##### Gadget
+#### Gadget
 
 * MacBook Pro (Retina, 15-inch, Mid 2015, US)
 * [EIZO FlexScan 23.8inch EV2451-RBK](http://www.amazon.co.jp/exec/obidos/ASIN/B01MFAJEZU/rakuishi-22/ref=nosim/)
 * iPhone 6 (SIM Free)
 * Nexus 5X (SIM Free)
+* iPad 9.7-inch
 * Kindle Paperwhite
 * Bose QuietComfort 20i
 * Cintiq 13 HD
 * Panasonic 充電器 (BQ-CC52)
 * [Apple USB SuperDrive](http://www.apple.com/jp/shop/product/MD564ZM/A/apple-usb-superdrive)
 
-##### Bag
+#### Bag
 
 * [CROWN BACKPACK (Herschel)](http://shop.herschelsupply.com/collections/backpacks/products/crown-backpack-charcoal-crosshatch-3m-rubber)
 * [ANGSTROM 20 PACK (The North Face)](https://www.thenorthface.com/shop/angstrom-20-pack)
 * [Weka 40 (macpac)](http://goldwinwebstore.jp/ec/pro/disp/1/MM61508)
 
-##### Furniture & Appliances
+#### Furniture & Appliances
 
 * アーロンチェア グラファイト/クラシック Bサイズ
 * [デスク 150 (無印良品)](http://www.muji.net/store/cmdty/detail/4934761394572)
@@ -27,17 +28,17 @@
 * 炊飯器 (象印)
 * 電気ケトル アプレシア0.8L (T-fal)
 
-##### Clothes
+#### Clothes
 
 * ダンボール3箱分
 
-##### Misc
+#### Misc
 
 * Victorinox アーミーナイフ サイバーツール29T
 * アルミゴミ箱 (無印良品)
 * Snow Peak チタンダブルマグ 300 フォールディングハンドル
 
-##### Web Service
+#### Web Service
 
 * [DMM Mobile](http://mvno.dmm.com/) 税抜 ¥1,620/month
 * [Money Forward](https://moneyforward.com/) 税込 ¥500/month
