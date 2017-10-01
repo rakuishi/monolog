@@ -1,10 +1,10 @@
-#### Gadget
+### Gadget
 
 * MacBook Pro (Retina, 15-inch, Mid 2015, US)
 * [EIZO FlexScan 23.8inch EV2451-RBK](http://www.amazon.co.jp/exec/obidos/ASIN/B01MFAJEZU/rakuishi-22/ref=nosim/)
 * iPhone 6 (SIM Free)
-* Nexus 5X (SIM Free)
 * iPad 9.7-inch
+* Nexus 5X (SIM Free)
 * Kindle Paperwhite
 * Bose QuietComfort 20i
 * Cintiq 13 HD
