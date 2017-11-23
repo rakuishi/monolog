@@ -4,7 +4,7 @@
 * [EIZO FlexScan 23.8inch EV2451-RBK](http://www.amazon.co.jp/exec/obidos/ASIN/B01MFAJEZU/rakuishi-22/ref=nosim/)
 * iPhone 6 (SIM Free)
 * iPad 9.7-inch
-* Nexus 5X (SIM Free)
+* ~~Nexus 5X (SIM Free)~~
 * Kindle Paperwhite
 * Bose QuietComfort 20i
 * Cintiq 13 HD
@@ -43,5 +43,6 @@
 * [DMM Mobile](http://mvno.dmm.com/) 税抜 ¥1,620/month
 * [Money Forward](https://moneyforward.com/) 税込 ¥500/month
 * [お名前.com](http://www.onamae.com/) 税抜 ¥1,280/year
+* [Amazon Prime](www.amazon.co.jp/prime) 税込 ¥3,900/year
 * [Amazon S3](https://aws.amazon.com/jp/) $1/month
 * [Apple Developer Program](https://developer.apple.com/jp/) 税抜 ¥11,800/year
