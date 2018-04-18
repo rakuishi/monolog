@@ -6,10 +6,8 @@
 * iPhone 6 (SIM Free)
 * iPad 9.7-inch
 * Galaxy S8 (SIM Free)
-* ~~Nexus 5X (SIM Free)~~
 * Kindle Paperwhite
 * Bose QuietComfort 20i
-* Cintiq 13 HD
 * Panasonic 充電器 (BQ-CC52)
 * [Apple USB SuperDrive](http://www.apple.com/jp/shop/product/MD564ZM/A/apple-usb-superdrive)
 
