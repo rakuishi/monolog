@@ -6,7 +6,7 @@
 * iPad 9.7-inch
 * Galaxy S8 (SIM Free)
 * Kindle Paperwhite
-* Bose QuietComfort 20i
+* SONY WH-1000XM2
 
 #### Bag
 
