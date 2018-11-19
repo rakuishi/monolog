@@ -4,7 +4,7 @@
 * [EIZO FlexScan 23.8inch EV2451-RBK](http://www.amazon.co.jp/exec/obidos/ASIN/B01MFAJEZU/rakuishi-22/ref=nosim/)
 * iPhone 6 (SIM Free)
 * iPad 9.7-inch
-* Galaxy S8 (SIM Free)
+* Google Pixel 3 (SIM Free)
 * Kindle Paperwhite
 * SONY WH-1000XM2
 
