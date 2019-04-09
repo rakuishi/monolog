@@ -21,7 +21,7 @@
 * シングルベッド 98x198 (無印良品)
 * 洗濯乾燥機 NA-VD110L (Panasonic)
 * 冷蔵庫 MR-D05BB (森田電工)
-* 炊飯器 (象印)
+* IHジャー炊飯器 SR-KT067 (Panasonic)
 * 電気ケトル アプレシア0.8L (T-fal)
 
 #### Clothes
@@ -32,7 +32,6 @@
 
 * [DMM Mobile](http://mvno.dmm.com/) 税抜 ¥1,620/month
 * [Money Forward](https://moneyforward.com/) 税込 ¥500/month
-* [お名前.com](http://www.onamae.com/) 税抜 ¥1,280/year
-* [Amazon Prime](www.amazon.co.jp/prime) 税込 ¥3,900/year
+* rakuishi.com $12/year
 * [Amazon S3](https://aws.amazon.com/jp/) $1/month
 * [Apple Developer Program](https://developer.apple.com/jp/) 税抜 ¥11,800/year
