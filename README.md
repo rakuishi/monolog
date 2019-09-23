@@ -30,8 +30,8 @@
 
 #### Web Service
 
-* [DMM Mobile](http://mvno.dmm.com/) 税抜 ¥1,620/month
+* [DMM Mobile](http://mvno.dmm.com/) 税抜 ¥1,500/month
 * [Money Forward](https://moneyforward.com/) 税込 ¥500/month
-* rakuishi.com $12/year
+* [rakuishi.com](https://aws.amazon.com/jp/) $12/year
 * [Amazon S3](https://aws.amazon.com/jp/) $1/month
 * [Apple Developer Program](https://developer.apple.com/jp/) 税抜 ¥11,800/year
