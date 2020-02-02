@@ -10,7 +10,6 @@
 #### Bag
 
 * [CROWN BACKPACK (Herschel)](http://shop.herschelsupply.com/collections/backpacks/products/crown-backpack-charcoal-crosshatch-3m-rubber)
-* [ANGSTROM 20 PACK (The North Face)](https://www.thenorthface.com/shop/angstrom-20-pack)
 * [Weka 40 (macpac)](http://goldwinwebstore.jp/ec/pro/disp/1/MM61508)
 
 #### Furniture & Appliances
