@@ -1,11 +1,12 @@
 ### Gadget
 
-* MacBook Pro (Retina, 15-inch, Mid 2015, US)
+* Mac mini 2020
 * [EIZO FlexScan 23.8inch EV2451-RBK](http://www.amazon.co.jp/exec/obidos/ASIN/B01MFAJEZU/rakuishi-22/ref=nosim/)
 * iPhone 6 (SIM Free)
 * Google Pixel 3 (SIM Free)
 * Kindle Paperwhite
 * SONY WH-1000XM2
+* Bose Companion® 2 Series III multimedia speaker system
 
 #### Bag
 
@@ -33,4 +34,4 @@
 * [Money Forward](https://moneyforward.com/) 税込 ¥500/month
 * [rakuishi.com](https://aws.amazon.com/jp/) $12/year
 * [Apple Developer Program](https://developer.apple.com/jp/) 税抜 ¥11,800/year
-* [Docomo Anime Store](https://anime.dmkt-sp.jp/animestore/tp) 税抜 ¥400/month
+* [Netflix](https://www.netflix.com/) 税抜 ¥880/month
