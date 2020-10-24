@@ -5,7 +5,7 @@
 * iPhone 6 (SIM Free)
 * Google Pixel 3 (SIM Free)
 * Kindle Paperwhite
-* SONY WH-1000XM2
+* SONY WH-1000XM4
 * Bose Companion® 2 Series III multimedia speaker system
 
 #### Bag
