@@ -2,21 +2,21 @@
 
 * Mac mini 2020
 * [EIZO FlexScan 23.8inch EV2451-RBK](http://www.amazon.co.jp/exec/obidos/ASIN/B01MFAJEZU/rakuishi-22/ref=nosim/)
-* iPhone 6 (SIM Free)
-* Google Pixel 3 (SIM Free)
+* Google Pixel 5 (SIM Free)
 * Kindle Paperwhite
 * SONY WH-1000XM4
 * Bose Companion® 2 Series III multimedia speaker system
 
 #### Bag
 
-* [CROWN BACKPACK (Herschel)](http://shop.herschelsupply.com/collections/backpacks/products/crown-backpack-charcoal-crosshatch-3m-rubber)
-* [Weka 40 (macpac)](http://goldwinwebstore.jp/ec/pro/disp/1/MM61508)
+* CROWN BACKPACK (Herschel)
+* Weka 40 (macpac)
+* Kahu 22 (macpac)
 
 #### Furniture & Appliances
 
 * アーロンチェア グラファイト/クラシック Bサイズ
-* [デスク 150 (無印良品)](http://www.muji.net/store/cmdty/detail/4934761394572)
+* デスク 150 (無印良品)
 * 電気スタンド (無印良品)
 * シングルベッド 98x198 (無印良品)
 * 洗濯乾燥機 NA-VD110L (Panasonic)
@@ -30,8 +30,8 @@
 
 #### Web Service
 
-* [DMM Mobile](http://mvno.dmm.com/) 税抜 ¥1,500/month
+* [Rakuten Mobile](https://network.mobile.rakuten.co.jp/) 税抜 ¥0~2980/month
 * [Money Forward](https://moneyforward.com/) 税込 ¥500/month
-* [rakuishi.com](https://aws.amazon.com/jp/) $12/year
+* [rakuishi.com](https://domains.google/) 税抜 ¥1,400/year
 * [Apple Developer Program](https://developer.apple.com/jp/) 税抜 ¥11,800/year
-* [Netflix](https://www.netflix.com/) 税抜 ¥880/month
+* [Spotify](https://www.spotify.com/) 税込 ¥980/month
