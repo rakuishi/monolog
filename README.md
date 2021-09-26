@@ -35,3 +35,4 @@
 * [rakuishi.com](https://domains.google/) 税抜 ¥1,400/year
 * [Apple Developer Program](https://developer.apple.com/jp/) 税抜 ¥11,800/year
 * [Spotify](https://www.spotify.com/) 税込 ¥980/month
+* [Tower Git Client](https://www.git-tower.com/mac) ¥7499/year
