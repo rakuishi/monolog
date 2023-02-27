@@ -30,9 +30,10 @@
 
 #### Web Service
 
-* [Rakuten Mobile](https://network.mobile.rakuten.co.jp/) 税抜 ¥980~2980/month
+* [Rakuten Mobile](https://network.mobile.rakuten.co.jp/) 税抜 ¥980~2,980/month
 * [Money Forward](https://moneyforward.com/) 税込 ¥500/month
 * [rakuishi.com](https://domains.google/) 税抜 ¥1,400/year
 * [Apple Developer Program](https://developer.apple.com/jp/) 税抜 ¥11,800/year
 * [Spotify](https://www.spotify.com/) 税込 ¥980/month
-* [Tower Git Client](https://www.git-tower.com/mac) ¥7499/year
+* [Tower Git Client](https://www.git-tower.com/mac) ¥7,499/year
+* [Anytime Fitness](https://www.anytimefitness.co.jp/) ¥7,480/month
